@@ -1,6 +1,6 @@
 # Spring Boot基础教程
 
-本项目内容为Spring Boot教程程序样例。如您觉得该项目对您有用，欢迎点击右上方的**Star**按钮，给予支持！！
+2018-12-19添加学习
 
 - 我的博客：http://blog.didispace.com
 - **我的小密圈（深度交流与问答）：https://t.xiaomiquan.com/zfEiY3v**
